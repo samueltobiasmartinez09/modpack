@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "minecraft/mods/gputape.pw.toml"
-hash = "211d2a581e464797fcca19ca4394aca676ca58aaaf3323f10d338e1084eb058d"
+hash = "462bbd6cd7247d391c9c68ce204237a75f10c070f5e6c080372abc99c2339ded"
 metafile = true
 
 [[files]]
@@ -347,11 +347,6 @@ metafile = true
 [[files]]
 file = "minecraft/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar.disabled"
 hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
-
-[[files]]
-file = "minecraft/mods/project-982560.pw.toml"
-hash = "e94344f7166a2863620cedfc052081d29283dd39297d34c6efec8c354a1c4d25"
-metafile = true
 
 [[files]]
 file = "minecraft/mods/red-core.pw.toml"
