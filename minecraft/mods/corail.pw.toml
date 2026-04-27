@@ -1,0 +1,8 @@
+name = "Corail"
+filename = "download"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/243707/files/6261464/download"
+hash-format = "sha256"
+hash = "d5ac0bce174b18cbe5a561752d035d6f5ec584f939a7ab85c1965084c4448745"

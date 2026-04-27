@@ -584,6 +584,11 @@ hash = "c44f9dbdbe00cabe15be71c5fae2e170b1eb518310b575fa6356a4591d6dacf5"
 metafile = true
 
 [[files]]
+file = "mods/corail.pw.toml"
+hash = "81922cbc76f20f97277d5e69c3b115fc5a9c526d1fb6129288ea64fd1b4891a7"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "f54a768fc42a0c608923ccad9775e4a76b6ba916027108d45b7fd39961cff6de"
 metafile = true
