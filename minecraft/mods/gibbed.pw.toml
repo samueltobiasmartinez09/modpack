@@ -1,0 +1,13 @@
+name = "Gibbed"
+filename = "Gibbed-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc56d0d4b1242acc761e58d7e5faa0ed532ef3df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7737413
+project-id = 1480667

@@ -1,0 +1,13 @@
+name = "MCA Reforged"
+filename = "mca-6.3.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34d00be1b3545e303a46b80b5d0922b463d9648f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7925958
+project-id = 1327637

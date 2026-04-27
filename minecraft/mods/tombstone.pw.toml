@@ -1,8 +1,0 @@
-name = "tombstone"
-filename = "tombstone-1.12.2-4.7.5.jar"
-side = "both"
-
-[download]
-url = "https://github.com/SamuelDeLimpio/modpack-servidor/raw/refs/heads/main/notfound/tombstone-1.12.2-4.7.5.jar"
-hash-format = "sha256"
-hash = "d5ac0bce174b18cbe5a561752d035d6f5ec584f939a7ab85c1965084c4448745"

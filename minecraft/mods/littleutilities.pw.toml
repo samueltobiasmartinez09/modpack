@@ -1,0 +1,13 @@
+name = "LittleUtilities"
+filename = "LittleUtilities-1.12.2-beta1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93af4c3d8dd722b79dcbea285bde24a5d1832d1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2650529
+project-id = 256018

@@ -1,0 +1,13 @@
+name = "Clipper"
+filename = "clipper-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Z2gNBMp/versions/aYRoAFZS/clipper-1.0.jar"
+hash-format = "sha512"
+hash = "764b17263cfb52275f1a3079ead75d46f3a424b577d894c21ea7e94d1a8695b742d3daa82df871515a03f94b9d1df9451d7796d0f675f29b8147599929683df2"
+
+[update]
+[update.modrinth]
+mod-id = "3Z2gNBMp"
+version = "aYRoAFZS"

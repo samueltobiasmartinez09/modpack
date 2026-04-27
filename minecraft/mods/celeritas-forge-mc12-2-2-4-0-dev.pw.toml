@@ -1,8 +1,0 @@
-name = "celeritas-forge-mc12.2-2.4.0-dev"
-filename = "celeritas-forge-mc12.2-2.4.0-dev.jar"
-side = "both"
-
-[download]
-url = "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.4.0-dev.3-126-gccbdf3e0-20260313T005744/celeritas-forge-mc12.2-2.4.0-dev.jar"
-hash-format = "sha256"
-hash = "548a88ca9e1a9dd4f0a7140a9110f321e4fd6ae4196efd88f3f5e0f9a7e6585c"

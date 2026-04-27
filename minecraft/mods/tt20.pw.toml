@@ -1,0 +1,13 @@
+name = "TT20 (TPS Fixer)"
+filename = "tt20-G122-0.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "849a1efe38fe08fb05def78c6a268b1b4613d2b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7811408
+project-id = 1368326

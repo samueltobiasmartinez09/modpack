@@ -1,0 +1,13 @@
+name = "Threading Entity Mod"
+filename = "EntityThreading-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5001bc469c59fca4d6bb3fea07e5d4b9a8a18db2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7737913
+project-id = 1478107

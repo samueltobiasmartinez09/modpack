@@ -1,0 +1,13 @@
+name = "MTE Patches"
+filename = "mtepatches-1.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36ee0aafe6029137897216b7140a6e543afb4f92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7955326
+project-id = 1145620

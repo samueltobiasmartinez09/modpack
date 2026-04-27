@@ -1,0 +1,13 @@
+name = "PackCompanion"
+filename = "!packcompanion-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c335c24395211db1a70f70731b35c60c4027e6e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7857506
+project-id = 1487439
