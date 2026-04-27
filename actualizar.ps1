@@ -1,5 +1,5 @@
     # Configuración Final (Solución de Ruta GitHub)
-    $RepoURL = "https://raw.githubusercontent.com/SamuelDeLimpio/modpack-servidor/main"
+    $RepoURL = "https://raw.githubusercontent.com/samueltobiasmartinez09/modpack/main"
     $JarFile = "$PSScriptRoot\packwiz-installer-bootstrap.jar"
     $RuntimeDir = "$PSScriptRoot\runtime"
 
